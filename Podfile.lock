@@ -1,0 +1,30 @@
+PODS:
+  - AliyunOSSiOS (2.0.2):
+    - Bolts
+  - Bolts (1.4.0):
+    - Bolts/AppLinks (= 1.4.0)
+    - Bolts/Tasks (= 1.4.0)
+  - Bolts/AppLinks (1.4.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.4.0)
+  - EGOCache (2.1.3)
+
+DEPENDENCIES:
+  - AliyunOSSiOS (from `https://github.com/aliyun/AliyunOSSiOS.git`)
+  - EGOCache
+
+EXTERNAL SOURCES:
+  AliyunOSSiOS:
+    :git: https://github.com/aliyun/AliyunOSSiOS.git
+
+CHECKOUT OPTIONS:
+  AliyunOSSiOS:
+    :commit: 93bbd40d5160625ed8a6c40b131c630090edb2d6
+    :git: https://github.com/aliyun/AliyunOSSiOS.git
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: c28bc6901671e8dcf4ed76ed6e54ab4949e05d5f
+  Bolts: 0e9bce58b9b9f5e8a7a4d47b16d2fabec289072b
+  EGOCache: f0295dbe041156acabd39021354ad1045ee49e72
+
+COCOAPODS: 0.39.0

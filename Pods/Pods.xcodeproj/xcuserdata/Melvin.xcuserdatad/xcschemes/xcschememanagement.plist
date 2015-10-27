@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AliyunOSSiOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Bolts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>EGOCache.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0C1643B606D48C994ABF6A267FEFBCC2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>23ABDCB369C3A51172493BB5816FB20F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A2FD1D5ED7F5C8235E3F091A1A6D33E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A08AEFDC024D13A4C5F909784AEE8C56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
